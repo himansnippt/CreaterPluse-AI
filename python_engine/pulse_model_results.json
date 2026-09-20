@@ -1,0 +1,61 @@
+{
+  "project": "CreatorPulse AI",
+  "author": "Himanshu Mishra",
+  "timestamp": "2026-09-16 01:04:48",
+  "benchmark_samples": [
+    {
+      "title": "I Spent 100 Hours In The World's Most Dangerous City",
+      "category": "Vlogging",
+      "duration": "22 min",
+      "viral_score": 70,
+      "predicted_views": "293,190",
+      "ctr": "7.4%",
+      "tier": "High Engagement (Above Average)"
+    },
+    {
+      "title": "Why Python Is Finally Getting Replaced In 2026",
+      "category": "Technology",
+      "duration": "12 min",
+      "viral_score": 78,
+      "predicted_views": "311,711",
+      "ctr": "6.2%",
+      "tier": "High Engagement (Above Average)"
+    },
+    {
+      "title": "How I Built A $10,000/Month Business While In College",
+      "category": "Finance",
+      "duration": "14 min",
+      "viral_score": 74,
+      "predicted_views": "222,773",
+      "ctr": "5.7%",
+      "tier": "High Engagement (Above Average)"
+    },
+    {
+      "title": "10 Insane Gaming Secrets You Completely Missed",
+      "category": "Gaming",
+      "duration": "19 min",
+      "viral_score": 78,
+      "predicted_views": "400,771",
+      "ctr": "7.7%",
+      "tier": "High Engagement (Above Average)"
+    },
+    {
+      "title": "Complete Statistics For Data Science (Full Course)",
+      "category": "Education",
+      "duration": "45 min",
+      "viral_score": 59,
+      "predicted_views": "127,970",
+      "ctr": "5.0%",
+      "tier": "Standard Performance (Moderate)"
+    },
+    {
+      "title": "Trying Fast Food For 24 Hours Straight",
+      "category": "Entertainment",
+      "duration": "16 min",
+      "viral_score": 77,
+      "predicted_views": "696,125",
+      "ctr": "8.8%",
+      "tier": "High Engagement (Above Average)"
+    }
+  ]
+}
